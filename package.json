@@ -1,0 +1,17 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./wikistack/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-template-tag": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
